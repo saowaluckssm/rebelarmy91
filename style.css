@@ -120,13 +120,14 @@ nav ul li {
   margin-top: 20px;
 }
 
-.social i {
+.social a {
+  color: #333;
   margin: 0 10px;
   font-size: 25px;
   cursor: pointer;
 }
 
-.social i:hover {
+.social a:hover {
   color: gray;
 }
 
